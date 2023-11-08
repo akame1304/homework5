@@ -1,0 +1,51 @@
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe.config
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.pdb
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Form1.resources
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Properties.Resources.resources
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.exe
+C:\Users\simon\source\repos\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.pdb
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe.config
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.pdb
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.AssemblyReference.cache
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Form1.resources
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Properties.Resources.resources
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.GenerateResource.cache
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.CoreCompileInputs.cache
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.exe
+C:\Users\concu\Downloads\homework3_Csh\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.pdb
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe.config
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.exe
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\bin\Debug\homework3_Csh.pdb
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.AssemblyReference.cache
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Form1.resources
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.Properties.Resources.resources
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.GenerateResource.cache
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.csproj.CoreCompileInputs.cache
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.exe
+C:\Users\concu\Downloads\homework3_Csh (1)\homework3_Csh\homework3_Csh\obj\Debug\homework3_Csh.pdb
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\bin\Debug\homework3_Csh.exe.config
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\bin\Debug\homework3_Csh.exe
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\bin\Debug\homework3_Csh.pdb
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.csproj.AssemblyReference.cache
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.csproj.SuggestedBindingRedirects.cache
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.Form1.resources
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.Properties.Resources.resources
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.csproj.GenerateResource.cache
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.csproj.CoreCompileInputs.cache
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.exe
+D:\magistrale\statistics\homework_5\homework_5\homework3_Csh\obj\Debug\homework3_Csh.pdb
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\bin\Debug\homework3_Csh.exe.config
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\bin\Debug\homework3_Csh.exe
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\bin\Debug\homework3_Csh.pdb
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.csproj.AssemblyReference.cache
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.Form1.resources
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.Properties.Resources.resources
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.csproj.GenerateResource.cache
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.csproj.CoreCompileInputs.cache
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.exe
+C:\Users\chiar\OneDrive\Desktop\università\magistrale\statistics\homework5\homework3_Csh\obj\Debug\homework3_Csh.pdb
